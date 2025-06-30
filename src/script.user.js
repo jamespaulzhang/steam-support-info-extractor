@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         Steam 游戏技术支持信息获取
+// @copyright    2025, Yuxiang ZHANG (https://github.com/jamespaulzhang)
+// @license      MIT
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  自动获取Steam游戏的技术支持邮箱和客服站点并显示在页面上，可关闭显示框
 // @author       Yuxiang ZHANG
 // @match        https://store.steampowered.com/app/*
 // @grant        GM_xmlhttpRequest
+// @downloadURL  https://greasyfork.org/zh-CN/scripts/541158-steam-游戏技术支持信息获取
+// @updateURL    https://greasyfork.org/zh-CN/scripts/541158-steam-游戏技术支持信息获取
 // ==/UserScript==
 
 (function() {
