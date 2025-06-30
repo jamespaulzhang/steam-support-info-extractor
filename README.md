@@ -24,7 +24,7 @@
    - [Firefox 版](https://addons.mozilla.org/firefox/addon/tampermonkey/)
    - [Edge 版](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
-2. [点击一键安装脚本](https://github.com/jamespaulzhang/steam-support-info-extractor/raw/main/src/script.user.js)
+2. [点击一剑安装脚本](https://greasyfork.org/zh-CN/scripts/541158-steam-游戏技术支持信息获取)
 
 3. 访问任意 Steam 游戏商店页面（如 `https://store.steampowered.com/app/292030`）即可使用
 
